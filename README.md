@@ -1,16 +1,15 @@
 # Web Server
 
-## Konfigurasi Repo
+## How to Install
+1. Configure the repository:
  ```sh
    nano /etc/apt/sources.list
    ```
-
-## Jalankan perintah
+2. Running the command:
  ```sh
    apt update
    ```
-
-## Install web server (apache)
+3. Install Apache2
  ```sh
    sudo apt install apache2 -y
    ```
