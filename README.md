@@ -7,7 +7,7 @@
    ```
 2. Running the command:
  ```sh
-   apt update
+   sudo apt update
    ```
 3. Install Apache2
  ```sh
