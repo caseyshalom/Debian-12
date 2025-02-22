@@ -7,17 +7,17 @@
    ```
 2. Update Packages
  ```sh
-   sudo apt update
+   apt update
    ```
 3. Install Apache2
  ```sh
-   sudo apt install apache2 -y
+   apt install apache2 -y
    ```
 4. Start, enable, and status
  ```sh
-   sudo systemctl start apache2
-   sudo systemctl enable apache2
-   sudo systemctl status apache2
+ systemctl start apache2
+ systemctl enable apache2
+ sudo systemctl status apache2
    ```
 5. Change DocumentRoot
  ```sh
