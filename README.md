@@ -1,5 +1,16 @@
 # Web Server
 
 ## Konfigurasi Repo
-' nano /etc/apt/sources.list '
-' apt update '
+ ```sh
+   nano /etc/apt/sources.list
+   ```
+
+## Jalankan perintah
+ ```sh
+   apt update
+   ```
+
+## Install web server (apache)
+ ```sh
+   sudo apt install apache2 -y
+   ```
