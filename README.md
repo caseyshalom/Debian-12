@@ -5,7 +5,7 @@
 # File List
 
 <details>
-<summary><b>linux\server-configurations</b></summary>
+<summary><b>Web Server Configuration</b></summary>
 <ul>
   <li><a href='Web Server/000-default.conf'>000-default.conf</a></li>
   <li><a href='Web Server/ports.conf'>ports.conf</a></li>
