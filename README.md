@@ -1,30 +1,15 @@
-# Web Server
+## Configuration Web Server, Database Server, Wordpress
 
-## How to Install
-1. Configure the repository
- ```sh
- nano /etc/apt/sources.list
-   ```
-2. Update Packages
- ```sh
- apt update
-   ```
-3. Install Apache2
- ```sh
- apt install apache2 -y
-   ```
-4. Start, enable, and status
- ```sh
- systemctl start apache2
- systemctl enable apache2
- systemctl status apache2
-   ```
-5. Change DocumentRoot
- ```sh
- cd /etc/apache2/sites-available
- nano 000-default.conf
-   ```
-6. Change Port (Optional)
- ```sh
- nano /etc/apache2/ports.conf
-   ```
+<p id="file-list"></p>
+
+# File List
+
+<details>
+<summary><b>linux\server-configurations</b></summary>
+<ul>
+  <li><a href='Web Server/000-default.conf'>000-default.conf (Web Server)</a></li>
+  <li><a href='Web Server/ports.conf'>ports.conf (Web Server)</a></li>
+  <li><a href='Web Server/repo'>repo (Web Server)</a></li>
+  <li><a href='Web Server/web-server.md'>web-server.md (Web Server)</a></li>
+</ul>
+</details>
