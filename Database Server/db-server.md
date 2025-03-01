@@ -13,3 +13,7 @@ Disallow root login remotely	: y
 Remove test database and access : y
 Reload privilege tables : y
    ``` 
+# Installation PHP
+```sh
+ apt install php libapache2-mod-php php-mysql -y
+   ```
