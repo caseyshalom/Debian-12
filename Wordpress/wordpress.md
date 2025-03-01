@@ -39,9 +39,7 @@ nano wp-config.php
 ```sh
 systemctl restart apache2
    ```
-
-# Go page
-# Install Wordpress
+# Go Page & Install Wordpress
 ```sh
 Site Name : casey
 Username : casey
