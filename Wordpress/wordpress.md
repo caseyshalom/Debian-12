@@ -18,3 +18,7 @@ unzip latest.zip
 ```sh
 chmod 777 /var/www/html/wordpress
    ```
+# Restart Apache2
+```sh
+systemctl restart apache2
+   ```
