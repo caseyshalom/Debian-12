@@ -6,7 +6,7 @@ apt install mariadb-server -y
 ```sh
 mysql_secure_installation
 Password		: 123
-            : y
+Swicth unix authentication : n
 Change the root password : n
 Remove anonymous users : y
 Disallow root login remotely	: y
