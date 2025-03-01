@@ -1,10 +1,10 @@
 # Installation
 ```sh
- apt install mariadb-server -y
+apt install mariadb-server -y
    ```
 # Secure
 ```sh
- mysql_secure_installation
+mysql_secure_installation
 pass		: 123
         : y
 pass 	  : 123
