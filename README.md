@@ -1,4 +1,4 @@
-## Configuration Web Server, Database Server, Wordpress
+## Configuration List
 
 <p id="file-list"></p>
 
@@ -15,14 +15,14 @@
 </details>
 
 <details>
-<summary><b>Web Server Configuration</b></summary>
+<summary><b>Database Server Configuration</b></summary>
 <ul>
   <li><a href='Database Server/db-server.md'>db-server.md</a></li>
 </ul>
 </details>
 
 <details>
-<summary><b>Web Server Configuration</b></summary>
+<summary><b>SSH Server Configuration</b></summary>
 <ul>
   <li><a href='SSH Server/ssh-server.md'>ssh-server.md</a></li>
 </ul>
