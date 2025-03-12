@@ -22,7 +22,7 @@
 </details>
 
 <details>
-<summary><b>Web Server Configuration</b></summary>
+<summary><b>Wordpress Configuration</b></summary>
 <ul>
   <li><a href='Wordpress/wordpress.md'>wordpress.md</a></li>
   <li><a href='Wordpress/wp-config.php'>wp-config.php</a></li>
