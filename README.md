@@ -13,3 +13,17 @@
   <li><a href='Web Server/web-server.md'>web-server.md</a></li>
 </ul>
 </details>
+
+<details>
+<summary><b>Web Server Configuration</b></summary>
+<ul>
+  <li><a href='Database Server/db-server.md'>db-server.md</a></li>
+</ul>
+</details>
+
+<details>
+<summary><b>Web Server Configuration</b></summary>
+<ul>
+  <li><a href='SSH Server/ssh-server.md'>ssh-server.md</a></li>
+</ul>
+</details>
