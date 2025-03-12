@@ -22,6 +22,14 @@
 </details>
 
 <details>
+<summary><b>Web Server Configuration</b></summary>
+<ul>
+  <li><a href='Wordpress/wordpress.md'>wordpress.md</a></li>
+  <li><a href='Wordpress/wp-config.php'>wp-config.php</a></li>
+</ul>
+</details>
+
+<details>
 <summary><b>SSH Server Configuration</b></summary>
 <ul>
   <li><a href='SSH Server/ssh-server.md'>ssh-server.md</a></li>
