@@ -1,8 +1,8 @@
-## Configuration List
+## Contents
 
 <p id="file-list"></p>
 
-# File List
+# FILE LIST
 
 <details>
 <summary><b>Web Server Configuration</b></summary>
