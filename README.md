@@ -32,6 +32,6 @@
 <details>
 <summary><b>SSH Server Configuration</b></summary>
 <ul>
-  <li><a href='SSH Server/ssh-server.md'>ssh-server.md</a></li>
+  <li><a href='SSH Server/openssh.md'>openssh.md</a></li>
 </ul>
 </details>
